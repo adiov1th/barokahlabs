@@ -1,0 +1,46 @@
+{
+    "redirect":
+	[
+        {
+		"url_utama": "file:///android_asset/offlinePage/index.html",
+
+		"enable_mp3": false,
+                "enable_strap": true,
+                "enable_strap_Splah": true,
+                "ads_on_exit_dialog": true,
+
+                "pengaturan_iklan": "1",
+		"inter_count": 10,
+
+            	"startapp": "207870690",
+
+                "appid": "pub-7621111334476169",
+                "admobappid": "ca-app-pub-7621111334476169~3017812988",
+                "bannerid": "ca-app-pub-7621111334476169/8975094479",
+                "interid": "",
+		"nativeid" : "ca-app-pub-7621111334476169/8576473379",                
+
+                "hpk_alien": "flimty pelangsing",
+                "hpkadmob1": "cookies diet",
+                "hpkadmob2": "flimty penurun berat badan",
+                "hpkadmob3": "toxislim",
+                "hpkadmob4": "pelangsing ampuh",
+                "hpkadmob5": "pelangsing badan",
+
+                "fan_inter": "YOUR_PLACEMENT_ID",
+                "fan_banner": "YOUR_PLACEMENT_ID",
+		"fan_native": "YOUR_PLACEMENT_ID",
+
+		"exit_popup_dialog":
+		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
+				 
+                "url_more_apps": "https://play.google.com/store/apps/developer?id=Barokah+Labs",
+                "rate_button" : "Rate 5 Stars Now",
+                "later_button" : "Rate Later",
+		"more_button" : "More Awesome Apps",
+				 
+		"json_popup_wait" : "Ready . . . ."
+
+        }
+    ]
+}
